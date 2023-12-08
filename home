@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Sports League Management - Home</title>
+  </head>
+  
+  <body>
+    <header>
+      <h1>Sports League Management</h1>
+      <nav>
+        <ul>
+          <li><a href="/home.html">Home</a></li>
+          <li><a href="/contact.html">Contact Us</a></li>
+          <li><a href="/matches.html">Matches</a></li>
+          <li><a href="/subscription.html">Subscription</a></li>
+          <li><a href="/login.html">Log In</a></li>
+          
+        </ul>
+      </nav>
+    </header>
+
+    <section id="sports-categories">
+      <h2>Select a Sports Category</h2>
+      <div class="category-buttons">
+        <a href="/cricket.html">
+          <img src="download.jpg" alt="Cricket" />
+          <p>Cricket</p>
+        </a>
+      </div>
+      <div class="category-buttons">
+        <a href="/football.html">
+          <img src="download (1).jpg" alt="Football" />
+          <p>Football</p>
+        </a>
+      </div>
+      <div class="category-buttons">
+        <a href="/kabaddi.html">
+          <img src="images.jpg" alt="Kabbaddi" />
+          <p>Kabbaddi</p>
+        </a>
+      </div>
+      <div class="category-buttons">
+        <a href="/ufc.html">
+          <img src="images (1).jpg" alt="UFA" />
+          <p>UFC</p>
+        </a>
+      </div>
+      <div class="category-buttons">
+        <a href="/formula1.html">
+          <img src="download (2).jpg" alt="Formula 1" />
+          <p>Formula 1</p>
+        </a>
+      </div>
+    </section>
+
+    <footer>
+      <p>&copy; 2023 Sports League Management</p>
+    </footer>
+  </body>
+</html>
