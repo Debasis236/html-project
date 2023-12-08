@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Sports League Management - Subscription</title>
+  </head>
+  <body>
+    <header>
+      <h1>Sports League Management</h1>
+      <nav>
+        <ul>
+          <li><a href="/home.html">Home</a></li>
+          <li><a href="/contact.html">Contact Us</a></li>
+          <li><a href="/matches.html">Matches</a></li>
+          <li><a href="/subscription.html">Subscription</a></li>
+          <li><a href="/login.html">Log In</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div class="form">
+      <h2>SUBSCRIBE</h2>
+      <form action="About_Club.html">
+        <input
+          type="text"
+          id="name"
+          name="name"
+          required="required"
+          placeholder="Enter name"
+        /><br /><br />
+        <input
+          type="tel"
+          id="number"
+          name="number"
+          required="required"
+          placeholder="Enter your 10 digit mobile no..."
+        /><br /><br />
+        <input
+          type="email"
+          required="required"
+          placeholder="Enter your email"
+        /><br /><br />
+        <input
+          type="password"
+          required="required"
+          placeholder="Enter your password"
+        /><br /><br />
+        <button type="submit">SUBSCRIBE</button>
+      </form>
+    </div>
+
+    <footer>
+      <p>&copy; 2023 Sports League Management</p>
+    </footer>
+  </body>
+</html>
