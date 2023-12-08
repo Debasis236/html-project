@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Sports League Management - Log In</title>
+  </head>
+  <body>
+    <header>
+      <h1>Sports League Management</h1>
+      <nav>
+        <ul>
+          <li><a href="/home.html">Home</a></li>
+          <li><a href="/contact.html">Contact Us</a></li>
+          <li><a href="/matches.html">Matches</a></li>
+          <li><a href="/subscription.html">Subscription</a></li>
+          <li><a href="/login.html">Log In</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div class="about_club">
+      <p>
+        Kabaddi is a contact team sport. Played between two teams of seven
+        players, the objective of the game is for a single player on offence,
+        referred to as a "raider", to run into the opposing team's half of a
+        court, touch out as many of their defenders as possible, and return to
+        their own half of the court, all without being tackled by the defenders,
+        and in a single breath. Points are scored for each player tagged by the
+        raider, while the opposing team earns a point for stopping the raider.
+        Players are taken out of the game if they are touched or tackled, but
+        are brought back in for each point scored by their team from a tag or
+        tackle. It is popular in the Indian subcontinent and other surrounding
+        Asian countries. Although accounts of kabaddi appear in the histories of
+        ancient India, the game was popularised as a competitive sport in the
+        20th century. It is the national sport of Bangladesh.
+      </p>
+    </div>
+    <h1>Gallery</h1>
+    <div class="gallery">
+      <div class="gallery_photo">
+        <img src="kabaddi1.jpg" alt="photo" />
+      </div>
+      <div class="gallery_photo">
+        <img src="kabaddi2.jpg" alt="photo" />
+      </div>
+      <div class="gallery_photo">
+        <img src="kabaddi3.jpg" alt="photo" />
+      </div>
+      <div class="gallery_photo">
+        <img src="kabaddi4.jpg" alt="photo" />
+      </div>
+    </div>
+
+    <footer>
+      <p>&copy; 2023 Sports League Management</p>
+    </footer>
+  </body>
+</html>
